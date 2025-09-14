@@ -9,7 +9,3 @@ This behavior is disabled by default, meaning all elements are rendered whether 
 
 This can save you some time on initial renders but consider that moving the pane can cause multiple renders of nodes into the dom,
 which can cause performance spikes depending on the complexity of the components that have to be mounted.
-
-<div class="mt-6">
-  <Repl example="hidden"></Repl>
-</div>

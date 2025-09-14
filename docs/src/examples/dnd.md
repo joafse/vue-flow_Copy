@@ -9,7 +9,3 @@ In this example we demonstrate how to build a basic Sidebar and implement drag a
 
 This example shows another key feature of Vue Flow. You can initialize the Flow state at any point before the `VueFlow` component
 is actually mounted. This can be achieved by using the [`useVueFlow`](/guide/composables.html#usevueflow) composable.
-
-<div class="mt-6">
-  <Repl example="dnd"></Repl>
-</div>

@@ -6,12 +6,3 @@ Update an edge by simply dragging it from one node to another at the edge-anchor
 
 You can enable updating edges either globally by passing the `edgesUpdatable` prop or you can enable it
 for specific edges by using the `updatable` attribute.
-
-
-<div class="mt-6">
-  <ClientOnly>
-    <Suspense>
-      <Repl example="updateEdge"></Repl>
-    </Suspense>
-  </ClientOnly>
-</div>

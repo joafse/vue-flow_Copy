@@ -10,7 +10,3 @@ This example demonstrates save & restore functionality using the [`LocalStorage`
 
 You can extend on this basic idea however you like, i.e. fetch data that you transform into elements which are then passed to Vue Flow or 
 some other business logic you would like to handle.
-
-<div class="mt-6">
-  <Repl example="saveRestore"></Repl>
-</div>

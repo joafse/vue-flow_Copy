@@ -18,7 +18,3 @@ import { Handle, Position } from '@vue-flow/core'
   <Handle type="target" :position="Position.Left" />
 </template>
 ```
-
-<div class="mt-6">
-  <Repl example="validation"></Repl>
-</div>

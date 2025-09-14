@@ -79,8 +79,8 @@ Do __not__ scope these styles with `scoped` in your component.
 
 This project is built with
 
-- [D3.js](https://d3js.org/)
+- [D3.js]
   - D3 makes all the zoom and pan actions in Vue Flow possible.
 
-- [VueUse](https://vueuse.org/)
+- [VueUse]
   - VueUse is a collection of essential vue composition utilities
